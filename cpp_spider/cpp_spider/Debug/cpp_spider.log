@@ -1,0 +1,7 @@
+﻿  keylogger.cpp
+c:\users\thomas\documents\epitech\rendu\cpp_spider\cpp_spider\cpp_spider\protocol.hpp(32): warning C4200: extension non standard utilisée : tableau de taille zéro dans un struct/union
+  c:\users\thomas\documents\epitech\rendu\cpp_spider\cpp_spider\cpp_spider\protocol.hpp(32): note: Ce membre va être ignoré par un constructeur par défaut, ou par un opérateur d'assignation de copie/déplacement
+c:\users\thomas\documents\epitech\rendu\cpp_spider\cpp_spider\cpp_spider\keylogger.cpp(101): warning C4267: '=' : conversion de 'size_t' en 'uint16_t', perte possible de données
+c:\users\thomas\documents\epitech\rendu\cpp_spider\cpp_spider\cpp_spider\keylogger.cpp(113): warning C4101: 'size' : variable locale non référencée
+  cpp_spider.vcxproj -> C:\Users\Thomas\Documents\Epitech\rendu\cpp_spider\cpp_spider\Debug\cpp_spider.exe
+  cpp_spider.vcxproj -> C:\Users\Thomas\Documents\Epitech\rendu\cpp_spider\cpp_spider\Debug\cpp_spider.pdb (Partial PDB)
